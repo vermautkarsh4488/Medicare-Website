@@ -67,6 +67,6 @@
   </div>
 
   <h1 class="credit text-center mx-auto">
-    created by <span>Twisted_Blisters</span> | all rights reserved.
+    created by <span> Innovative Minds </span> | all rights reserved.
   </h1>
 </section>
